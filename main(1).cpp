@@ -1,4 +1,4 @@
-
+//CSCI ASSIGNMENT ONE, ALL ENTRIES BY MARCEL JOHNATHAN MCGILL
 #include <iostream>  //allows the use of input/output like cin and cout
 #include <string> //allows the storage of string variables
 using namespace std; // removes the need to type std:: before everything

@@ -1,5 +1,5 @@
 # main(1).cpp
-##This is some simple practice code written in C++.
+## This is some simple practice code written in C++.
 
 **It aims to:**
 

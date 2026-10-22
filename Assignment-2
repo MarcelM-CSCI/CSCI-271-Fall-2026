@@ -1,1 +1,2 @@
-
+mkdir -p assignment-2
+mv "Assignment 2.pdf" assignment-2/
